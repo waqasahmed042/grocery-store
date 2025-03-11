@@ -22,7 +22,7 @@ Check out the live demo of the website: [Grocery Store](https://waqasahmed042.gi
    - 🔍 **Smart Product Search & Filters** – Enables users to quickly find products with advanced search and category-based filters.
    - 🛒 **Easy & Secure Online Ordering** – Provides a hassle-free shopping cart and checkout process with multiple payment options.
    - 🚚 **Real-Time Order Tracking** – Allows customers to track their grocery deliveries in real-time.
-   - 📍  **Contact & Location Details** – Includes store address, phone, email, and an interactive map for easy navigation.
+   - 📌 **Contact & Location Details** – Includes store address, phone, email, and an interactive map for easy navigation.
 
    Would you like suggestions for animations or extra UX improvements? 🚀
 
