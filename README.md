@@ -1,5 +1,5 @@
 # Grocery Store
-A seamless online grocery shopping experience with an intuitive interface, real-time form validation, secure checkout, product categorization, customer reviews, and an easy-to-navigate layout. Ensuring accurate user input with live feedback, error handling, password strength checks, and email validation for a smooth shopping journey! 🚀
+A visually stunning and user-friendly restaurant website featuring a fully responsive design, highlighted signature dishes, an immersive image gallery, authentic customer reviews, seamless online ordering, and detailed contact information with an interactive map for easy navigation. 🍽️🚀
 
 ## Table of Contents
 - [Live Demo 🌐](#demo)
